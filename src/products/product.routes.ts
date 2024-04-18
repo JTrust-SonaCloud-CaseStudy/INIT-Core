@@ -1,5 +1,5 @@
 import express, {Request, Response} from "express"
-mport { Product } from "./product.interface"
+port { Product } from "./product.interface"
 import * as database from "./product.database"
 import {StatusCodes} from "http-status-codes"
 
